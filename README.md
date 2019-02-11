@@ -25,6 +25,7 @@
 *Simulate Hearthstone games*
 
 * [fireplace](https://github.com/jleclanche/fireplace) — A Hearthstone simulator in Python
+
 * [hearthbreaker](https://github.com/danielyule/hearthbreaker) — A Hearthstone: Heroes of WarCraft Simulator for the purposes of Machine Learning and Data Mining
 * [Hearthstonepp](https://github.com/utilForever/Hearthstonepp) — Hearthstone simulator using C++ with some reinforcement learning
 * [metastone](https://github.com/demilich1/metastone) — Hearthstone simulator written in Java with full GUI support
@@ -36,6 +37,7 @@
 *Extract and discover data from Hearthstone*
 
 * [HearthstoneJSON](https://github.com/HearthSim/HearthstoneJSON) — Hearthstone datamining and API scripts
+
 * [card2code](https://github.com/deepmind/card2code) — A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects
 * [python-hearthstone](https://github.com/HearthSim/python-hearthstone) — Hearthstone Python library (CardDefs, DBF, enums, log parser)
 * [searchstone](https://github.com/Shipow/searchstone) — Hearthstone's cards search engine built with algolia instantsearch
@@ -48,6 +50,7 @@
 *Automate Hearthstone gameplay*
 
 * [hearthrock](https://github.com/yangyuan/hearthrock) — Hearthstone Bot Engine
+
 * [hearthstone-ai](https://github.com/peter1591/hearthstone-ai) — A Hearthstone AI based on Monte Carlo tree search and neural nets written in modern C++
 
 
@@ -56,6 +59,7 @@
 *Create your own Hearthstone version*
 
 * [react-redux-card-game](https://github.com/inooid/react-redux-card-game) — A web version of Blizzard's Hearthstone game built with React, Redux and ImmutableJS
+
 * [hearthstone-backend](https://github.com/kdelvare/hearthstone-backend) — Hearthstone backend on Ruby
 
 ## Another
