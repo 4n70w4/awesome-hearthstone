@@ -60,9 +60,11 @@
 
 ## Another
 
-**
-
 * [hs-bugs](https://github.com/HearthSim/hs-bugs) — Unofficial Hearthstone issue tracker
+
+## Work in Progress
+
+*Tell about your projects in active development*
 
 
 ## Candidates to Outdate
@@ -84,7 +86,7 @@
 * [hearthdash](https://github.com/postcasio/hearthdash) — Hearthdash is a card tracking application for Hearthstone
 
 
-## Outdated
+## Outdated and Deprecated
 
 *This is the end*
 
