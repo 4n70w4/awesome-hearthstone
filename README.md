@@ -38,7 +38,7 @@
 
 * [HearthstoneJSON](https://github.com/HearthSim/HearthstoneJSON) — Hearthstone datamining and API scripts
 
-* [card2code](https://github.com/deepmind/card2code) — A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects
+* [card2code](https://github.com/deepmind/card2code) — A code generation dataset for generating the code that implements Hearthstone card effects
 * [python-hearthstone](https://github.com/HearthSim/python-hearthstone) — Hearthstone Python library (CardDefs, DBF, enums, log parser)
 * [searchstone](https://github.com/Shipow/searchstone) — Hearthstone's cards search engine built with algolia instantsearch
 * [hsdata](https://github.com/HearthSim/hsdata) — DBF and CardXML files extracted from the Hearthstone game client
